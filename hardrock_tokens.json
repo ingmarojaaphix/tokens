@@ -1,0 +1,388 @@
+{
+  "Hard Rock": {
+    "cPrimary": {
+      "value": "#993520",
+      "type": "color"
+    },
+    "cPrimary-light": {
+      "value": "#fdece8",
+      "type": "color"
+    },
+    "cPrimary-focus": {
+      "value": "#df7c68",
+      "type": "color"
+    },
+    "cPrimary-highlight": {
+      "value": "#d55035",
+      "type": "color"
+    },
+    "cPrimary-text": {
+      "value": "#501b11",
+      "type": "color"
+    },
+    "cPrimary-text--60p": {
+      "value": "#967670",
+      "type": "color"
+    },
+    "cPrimary-neutral--40p": {
+      "value": "#bfaca8",
+      "type": "color"
+    },
+    "cPrimary-zero": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "cSecondary": {
+      "value": "#f9b200",
+      "type": "color"
+    },
+    "cSecondary-light": {
+      "value": "#ffedc1",
+      "type": "color"
+    },
+    "cSecondary-focus": {
+      "value": "#ffd56c",
+      "type": "color"
+    },
+    "cSecondary-highlight": {
+      "value": "#ffc83b",
+      "type": "color"
+    },
+    "cSecondary-text": {
+      "value": "#342601",
+      "type": "color"
+    },
+    "cSecondary-text--60p": {
+      "value": "#857d67",
+      "type": "color"
+    },
+    "cPageBg": {
+      "value": "#f2f3f5",
+      "type": "color"
+    },
+    "cButton-text": {
+      "value": "#342601",
+      "type": "color"
+    },
+    "Theme": {
+      "cHeaderTopBg": {
+        "value": "{cPrimary}",
+        "type": "color"
+      },
+      "cHeaderTopC": {
+        "value": "{cPrimary-zero}",
+        "type": "color"
+      },
+      "cHeaderBg": {
+        "value": "{cPrimary-zero}",
+        "type": "color"
+      },
+      "cHeaderC": {
+        "value": "{cPrimary}",
+        "type": "color"
+      },
+      "cHeaderIcons": {
+        "value": "{cPrimary}",
+        "type": "color"
+      },
+      "cSearchBtnBg": {
+        "value": "{cPrimary-zero}",
+        "type": "color"
+      },
+      "cSearchBtn": {
+        "value": "{cSecondary}",
+        "type": "color"
+      },
+      "cSearchBorderColor": {
+        "value": "{cPrimary-neutral--40p}",
+        "type": "color"
+      },
+      "cMobileHeaderBg": {
+        "value": "{cPrimary-zero}",
+        "type": "color"
+      },
+      "bgCartIcon": {
+        "value": "{cPrimary}",
+        "type": "color"
+      },
+      "cCartIcon": {
+        "value": "{cPrimary-zero}",
+        "type": "color"
+      },
+      "b2bAccountBtnBg": {
+        "value": "#EEEEEE",
+        "type": "color"
+      },
+      "b2bAccountBtnC": {
+        "value": "#222222",
+        "type": "color"
+      },
+      "b2bAccountBtnHover": {
+        "value": "#222222",
+        "type": "color"
+      },
+      "b2bAccountBtnBgHover": {
+        "value": "#E6E6E6",
+        "type": "color"
+      },
+      "cNavbaBg": {
+        "value": "{cPrimary-light}",
+        "type": "color"
+      },
+      "cNavbarC": {
+        "value": "{cPrimary-text}",
+        "type": "color"
+      },
+      "cNavbarHoverC": {
+        "value": "{cPrimary-highlight}",
+        "type": "color"
+      },
+      "cBackgroundLeft": {
+        "value": "{cPrimary-zero}",
+        "type": "color"
+      },
+      "subLinkLeft": {
+        "value": "{cPrimary-text}",
+        "type": "color"
+      },
+      "subLinkLeftHover": {
+        "value": "{cPrimary-text}",
+        "type": "color"
+      },
+      "subLinkLeftHoverBg": {
+        "value": "{cPrimary-light}",
+        "type": "color"
+      },
+      "cBackgroundRight": {
+        "value": "{cPrimary-zero}",
+        "type": "color"
+      },
+      "subLinkRight": {
+        "value": "{cPrimary-text}",
+        "type": "color"
+      },
+      "subLinkRightHover": {
+        "value": "{cPrimary-highlight}",
+        "type": "color"
+      },
+      "subSubLinkRight": {
+        "value": "{cPrimary-text}",
+        "type": "color"
+      },
+      "subSubLinkRightHover": {
+        "value": "{cPrimary-highlight}",
+        "type": "color"
+      },
+      "cDropdownLine": {
+        "value": "{cPrimary-neutral--40p}",
+        "type": "color"
+      },
+      "accountTabColor": {
+        "value": "{cPrimary-text}",
+        "type": "color"
+      },
+      "accountTabActiveColor": {
+        "value": "{cPrimary-text}",
+        "type": "color"
+      },
+      "accountTabActiveBg": {
+        "value": "{cPrimary-light}",
+        "type": "color"
+      },
+      "clearCartC": {
+        "value": "#222222",
+        "type": "color"
+      },
+      "clearCartBg": {
+        "value": "#EEEEEE",
+        "type": "color"
+      },
+      "clearCartCHover": {
+        "value": "#222222",
+        "type": "color"
+      },
+      "clearCartBgHover": {
+        "value": "#E6E6E6",
+        "type": "color"
+      },
+      "addToCartBtnC": {
+        "value": "{cButton-text}",
+        "type": "color"
+      },
+      "addToCartBtnBg": {
+        "value": "{cSecondary}",
+        "type": "color"
+      },
+      "addToCartBtnHoverC": {
+        "value": "{cButton-text}",
+        "type": "color"
+      },
+      "addToCartBtnHoverBg": {
+        "value": "{cSecondary-highlight}",
+        "type": "color"
+      },
+      "loginRegisterC": {
+        "value": "#222222",
+        "type": "color"
+      },
+      "loginRegisterBg": {
+        "value": "#EEEEEE",
+        "type": "color"
+      },
+      "loginRegisterCHover": {
+        "value": "#222222",
+        "type": "color"
+      },
+      "loginRegisterBgHover": {
+        "value": "#E6E6E6",
+        "type": "color"
+      },
+      "cDropdownItem": {
+        "value": "{cPrimary-text}",
+        "type": "color"
+      },
+      "cDropdownItemHover": {
+        "value": "{cPrimary-text}",
+        "type": "color"
+      },
+      "cDropdownItemHoverBg": {
+        "value": "{cPrimary-light}",
+        "type": "color"
+      },
+      "cPaginationActive": {
+        "value": "{cPrimary-highlight}",
+        "type": "color"
+      },
+      "cFooterBg": {
+        "value": "{cPrimary-light}",
+        "type": "color"
+      },
+      "cFooterC": {
+        "value": "{cPrimary-text}",
+        "type": "color"
+      },
+      "footerHoverOverwrite": {
+        "value": "{cPrimary-highlight}",
+        "type": "color"
+      },
+      "cNewsletterBg": {
+        "value": "{cSecondary-light}",
+        "type": "color"
+      },
+      "cNewsletterC": {
+        "value": "{cPrimary-text--60p}",
+        "type": "color"
+      },
+      "cNewsletterBtnBg": {
+        "value": "{cSecondary}",
+        "type": "color"
+      },
+      "cNewsletterBtnC": {
+        "value": "{cPrimary-zero}",
+        "type": "color"
+      },
+      "cMcProductTitle": {
+        "value": "{cPrimary-text}",
+        "type": "color"
+      },
+      "cMcProductPrice": {
+        "value": "{cPrimary-highlight}",
+        "type": "color"
+      },
+      "cMcProductLabel": {
+        "value": "{cPrimary-text}",
+        "type": "color"
+      },
+      "cMcProductTotalNum": {
+        "value": "{cPrimary-text}",
+        "type": "color"
+      },
+      "mcBtnBg": {
+        "value": "{cSecondary}",
+        "type": "color"
+      },
+      "mcBtnC": {
+        "value": "{cPrimary-zero}",
+        "type": "color"
+      },
+      "mcBtnHoverBg": {
+        "value": "{cSecondary-highlight}",
+        "type": "color"
+      },
+      "mcBtnHoverC": {
+        "value": "{cPrimary-zero}",
+        "type": "color"
+      },
+      "pageBg": {
+        "value": "{cPrimary-zero}",
+        "type": "color"
+      },
+      "bodyFontC": {
+        "value": "{cPrimary-text}",
+        "type": "color"
+      },
+      "headingsC": {
+        "value": "{cPrimary}",
+        "type": "color"
+      },
+      "cLinks": {
+        "value": "{cPrimary-text}",
+        "type": "color"
+      },
+      "cBreadcrumbBg": {
+        "value": "{cPrimary-zero}",
+        "type": "color"
+      },
+      "cBreadcrumbLink": {
+        "value": "{cPrimary-text}",
+        "type": "color"
+      },
+      "cBreadcrumbLinkHover": {
+        "value": "{cPrimary-highlight}",
+        "type": "color"
+      },
+      "cBreadcrumbLinkActive": {
+        "value": "{cPrimary-text--60p}",
+        "type": "color"
+      },
+      "cFilterTitle": {
+        "value": "{cPrimary}",
+        "type": "color"
+      },
+      "cFilterLink": {
+        "value": "{cPrimary-text}",
+        "type": "color"
+      },
+      "cFilterLinkHover": {
+        "value": "{cPrimary-highlight}",
+        "type": "color"
+      },
+      "cProductTitle": {
+        "value": "{cPrimary-text}",
+        "type": "color"
+      },
+      "cProductTitleHover": {
+        "value": "{cPrimary-highlight}",
+        "type": "color"
+      },
+      "cProductPageH1": {
+        "value": "{cPrimary-text}",
+        "type": "color"
+      },
+      "cProductPrice": {
+        "value": "{cPrimary}",
+        "type": "color"
+      },
+      "cWasPrice": {
+        "value": "#D32F2F",
+        "type": "color"
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "Hard Rock"
+    ]
+  }
+}
