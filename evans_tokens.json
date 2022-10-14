@@ -1,31 +1,31 @@
 {
-  "Hard Rock": {
+  "Evans": {
     "cPrimary": {
-      "value": "#993520",
+      "value": "#086cb5",
       "type": "color"
     },
     "cPrimary-light": {
-      "value": "#fdece8",
+      "value": "#eef8ff",
       "type": "color"
     },
     "cPrimary-focus": {
-      "value": "#df7c68",
+      "value": "#7dc6f9",
       "type": "color"
     },
     "cPrimary-highlight": {
-      "value": "#d55035",
+      "value": "#1999f5",
       "type": "color"
     },
     "cPrimary-text": {
-      "value": "#501b11",
+      "value": "#535658",
       "type": "color"
     },
     "cPrimary-text--60p": {
-      "value": "#967670",
+      "value": "#60707b",
       "type": "color"
     },
     "cPrimary-neutral--40p": {
-      "value": "#bfaca8",
+      "value": "#9bb0bf",
       "type": "color"
     },
     "cPrimary-zero": {
@@ -33,27 +33,27 @@
       "type": "color"
     },
     "cSecondary": {
-      "value": "#f9b200",
+      "value": "#ffba3b",
       "type": "color"
     },
     "cSecondary-light": {
-      "value": "#ffedc1",
+      "value": "#ffefd1",
       "type": "color"
     },
     "cSecondary-focus": {
-      "value": "#ffd56c",
+      "value": "#ffd891",
       "type": "color"
     },
     "cSecondary-highlight": {
-      "value": "#ffc83b",
+      "value": "#ffcc6c",
       "type": "color"
     },
     "cSecondary-text": {
-      "value": "#342601",
+      "value": "#6b4808",
       "type": "color"
     },
     "cSecondary-text--60p": {
-      "value": "#857d67",
+      "value": "#857a66",
       "type": "color"
     },
     "cPageBg": {
@@ -61,7 +61,7 @@
       "type": "color"
     },
     "cButton-text": {
-      "value": "#342601",
+      "value": "#ffffff",
       "type": "color"
     },
     "Theme": {
@@ -382,7 +382,7 @@
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "Hard Rock"
+      "Evans"
     ]
   }
 }
